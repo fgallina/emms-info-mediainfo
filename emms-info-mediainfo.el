@@ -5,6 +5,7 @@
 ;; Author: Fabián Ezequiel Gallina <fgallina@gnu.org>
 ;; Version: 0.1.0
 ;; Keywords: multimedia, processes
+;; Package-Requires: ((emms "0"))
 
 ;; This file is NOT part of EMMS.
 
