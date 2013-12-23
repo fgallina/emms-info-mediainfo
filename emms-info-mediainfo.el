@@ -2,7 +2,9 @@
 
 ;; Copyright (C) 2013 Free Software Foundation, Inc.
 
-;; Authors: Fabián Ezequiel Gallina <fgallina@gnu.org>
+;; Author: Fabián Ezequiel Gallina <fgallina@gnu.org>
+;; Version: 0.1.0
+;; Keywords: multimedia, processes
 
 ;; This file is NOT part of EMMS.
 
